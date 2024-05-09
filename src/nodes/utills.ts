@@ -1,5 +1,4 @@
 import { ConnectionLineType, Edge, Node, XYPosition } from "reactflow";
-import { FAMILY_TREE } from "./node-data";
 
 function camelize(str: string): string {
   return str
